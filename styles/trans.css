@@ -217,7 +217,6 @@
   transition: width 2s, height 2s, background-color 2s, transform 2s;
 }
 
-
 .box333:hover {
   background-color: #07ED07;
   width: 100px;
