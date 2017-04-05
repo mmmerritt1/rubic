@@ -225,3 +225,12 @@
   -webkit-transform: rotate(180deg);
   transform: rotate(180deg);
 }
+
+li {
+    list-style-type:none;
+    position: relative;
+    text-align: center;
+    content: "\f06a";
+    font-family: FontAwesome;
+    font-size: 50px;
+}
